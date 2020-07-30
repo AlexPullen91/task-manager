@@ -16,5 +16,7 @@
       "**/.DS_Store": true,
       "**/.theia": true,
    },
-   "emmet.extensionsPath": ".theia"
+"emmet.extensionsPath": ".theia",
+"editor.wordWrapColumn": 100,
+"editor.wordWrap": "off"
 }
